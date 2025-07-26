@@ -14,8 +14,8 @@ kaggle_notebooks/
 │   └── getting-started-with-titanic.ipynb
 ├── course_notebooks/
 │   └── Intro to Programming/
-│       ├── exercise-arithmetic-and-variables.ipynb/
-│       └── exercise-functions.ipynb/
+│       ├── exercise-arithmetic-and-variables.ipynb
+│       └── exercise-functions.ipynb
 └── README.md
 ```
 
