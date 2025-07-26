@@ -10,6 +10,10 @@ A collection of Kaggle notebooks, covering both **Courses** and **Competitions**
 
 ```
 kaggle_notebooks/
+├── course_notebooks/
+│   └── Intro to Programming/
+│       ├── exercise-arithmetic-and-variables.ipynb/
+│       └── exercise-functions.ipynb/
 └── README.md
 ```
 
