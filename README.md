@@ -15,6 +15,7 @@ kaggle_notebooks/
 ├── course_notebooks/
 │   └── Intro to Programming/
 │       ├── exercise-arithmetic-and-variables.ipynb
+│       ├── exercise-data-types.ipynb
 │       └── exercise-functions.ipynb
 └── README.md
 ```
