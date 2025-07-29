@@ -19,6 +19,8 @@ kaggle_notebooks/
 │       ├── exercise-data-types.ipynb
 │       ├── exercise-functions.ipynb
 │       └── exercise-intro-to-lists.ipynb
+├── kaggle_certificates/
+│   └── John Mike Asuncion - Intro to Programming.png
 └── README.md
 ```
 
