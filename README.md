@@ -17,7 +17,8 @@ kaggle_notebooks/
 │       ├── exercise-arithmetic-and-variables.ipynb
 │       ├── exercise-conditions-and-conditional-statements.ipynb
 │       ├── exercise-data-types.ipynb
-│       └── exercise-functions.ipynb
+│       ├── exercise-functions.ipynb
+│       └── exercise-intro-to-lists.ipynb
 └── README.md
 ```
 
