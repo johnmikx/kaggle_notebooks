@@ -12,6 +12,7 @@ A collection of Kaggle notebooks, covering both **Courses** and **Competitions**
 kaggle_notebooks/
 ├── competition_notebooks/
 │   └── getting-started-with-titanic.ipynb
+│
 ├── course_notebooks/
 │   └── Intro to Programming/
 │       ├── exercise-arithmetic-and-variables.ipynb
@@ -19,8 +20,10 @@ kaggle_notebooks/
 │       ├── exercise-data-types.ipynb
 │       ├── exercise-functions.ipynb
 │       └── exercise-intro-to-lists.ipynb
+│
 ├── kaggle_certificates/
 │   └── John Mike Asuncion - Intro to Programming.png
+│
 └── README.md
 ```
 
